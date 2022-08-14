@@ -81,7 +81,7 @@ The most popular genre is adventure (tallest bar), followed by science fiction. 
 
 
 ![image](https://user-images.githubusercontent.com/103776681/184548717-e03f02f6-17eb-48a2-9cb5-24cb2e9fcaf9.png)
-This best line of fit for the scatter plot above is a vertical straight line. This means no relationship between popularity and vote average.
+The best line of fit for the scatter plot above is a vertical straight line. This means no relationship between popularity and vote average.
 
 
 ### Research Question 3 (What is the Relationship between vote count and popularity?)
